@@ -2,8 +2,8 @@ CC = clang
 CFLAGS = -g -Wall
 LDFLAGS = -lraylib -lGL -lm -ldl -lrt -lX11
 
-OBJECTS = main.o 
-TARGET = main
+OBJECTS = main.o player.o 
+TARGET = pong
 
 .PHONY : all clean
 
