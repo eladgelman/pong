@@ -1,7 +1,7 @@
 # PONG 
-Basic Implementation of Pong game useing Raylib library.
-Player1 keys: UP->z DOWN->x 
-Player2 keys: UP->k DOWN->j (vim Style;)
+Basic Implementation of Pong game useing Raylib library.\
+Player1 keys: UP->z DOWN->x.\
+Player2 keys: UP->k DOWN->j (vim Style :blush:).
 ## Installation
 Installing package using pacman
 ```
